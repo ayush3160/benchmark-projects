@@ -1,0 +1,17 @@
+[
+    {
+        "name": "express-mongoose",
+        "rootDir": "express-mongoose",
+        "filePath": "express-mongoose/src/routes.js"
+    },
+    {
+        "name": "mlops-housepricing",
+        "rootDir": "mlops-housepricing",
+        "filePath": "mlops-housepricing/src/pipeline/predict_pipeline.py"
+    },
+    {
+        "name": "stock-backend",
+        "rootDir": "stock-backend",
+        "filePath": "stock-backend/utils/helpers/helpers.go"
+    }
+]
