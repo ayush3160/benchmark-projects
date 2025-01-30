@@ -16,5 +16,11 @@
         "rootDir": "stock-backend",
         "filePath": "stock-backend/utils/helpers/helpers.go",
         "language": "go"
+    },
+    {
+        "name": "agentops",
+        "rootDir": "agentops",
+        "filePath": "agentops/agentops/session.py",
+        "language": "python"
     }
 ]
