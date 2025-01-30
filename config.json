@@ -2,16 +2,19 @@
     {
         "name": "express-mongoose",
         "rootDir": "express-mongoose",
-        "filePath": "express-mongoose/src/routes.js"
+        "filePath": "express-mongoose/src/routes/routes.js",
+        "language": "javascript"
     },
     {
         "name": "mlops-housepricing",
         "rootDir": "mlops-housepricing",
-        "filePath": "mlops-housepricing/src/pipeline/predict_pipeline.py"
+        "filePath": "mlops-housepricing/src/pipeline/predict_pipeline.py",
+        "language": "python"
     },
     {
         "name": "stock-backend",
         "rootDir": "stock-backend",
-        "filePath": "stock-backend/utils/helpers/helpers.go"
+        "filePath": "stock-backend/utils/helpers/helpers.go",
+        "language": "go"
     }
 ]
