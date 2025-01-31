@@ -22,5 +22,11 @@
         "rootDir": "agentops",
         "filePath": "agentops/agentops/session.py",
         "language": "python"
+    },
+    {
+        "name": "cody",
+        "rootDir": "cody",
+        "filePath": "cody/apps/Application.js",
+        "language": "javascript"
     }
 ]
